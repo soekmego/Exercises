@@ -1,2 +1,2 @@
 # Exercises
-Exercies for educational purposes
+Exercises for educational purposes
