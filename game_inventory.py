@@ -6,8 +6,8 @@ def displayInventory(inventory):
 	print("Inventory:")
 	total_items = 0
 	for k, v in inventory.items():
-		print(k + str(v))
+		print(str(v) + " " + k)
 		total_items += v
-	print("Total Items: " + str(total_items))
+	print(str(total_items) + " Total Items")
 
 displayInventory(backpack)
