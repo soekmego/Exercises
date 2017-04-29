@@ -3,8 +3,8 @@
 # game of tic tac toe for the command line
 
 gameboard = {"top-l": " ", "top-m": " ", "top-r": " ",
-         "mid-l": " ", "mid-m": " ", "mid-r": " ", 
-         "bot-l": " ", "bot-m": " ", "bot-r": " "}
+            "mid-l": " ", "mid-m": " ", "mid-r": " ", 
+            "bot-l": " ", "bot-m": " ", "bot-r": " "}
 
 def printToScreen(board):
     print(board["top-l"] + "|" + board["top-m"] + "|" + board["top-r"])
