@@ -1,6 +1,6 @@
-#! /usr/bin/python3
+#!/usr/bin/python3
 
-# Dice rolling game.
+# Dice rolling game. Shebang-Line makes it possible to start from CLI
 
 import random
 
